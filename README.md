@@ -1,37 +1,31 @@
 # HFUT
 
-#### 介绍
-合肥工业大学资料
+## 介绍
+合肥工业大学计算机系物联网工程专业相关课程资料汇总
 
-#### 软件架构
-软件架构说明
+由于 Gitee 仓库大小限制，所有资料都托管在 `coding` 平台上，整理不易，忘大家点个 star
 
+## 分类
 
-#### 安装教程
+资料汇总列表：https://bareth.coding.net/p/hfut/repos
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
++ [硬件工程师综合训练](https://bareth.coding.net/p/hfut/d/Comprehensive-training-for-hardware-engineers/git)
++ [Java技术](https://bareth.coding.net/p/hfut/d/Java-technology/git)
++ [RFID原理和应用](https://bareth.coding.net/p/hfut/d/RFID-principle-and-application/git)
++ [信号与系统](https://bareth.coding.net/p/hfut/d/Signals-and-Systems/git)
++ [人工智能原理](https://bareth.coding.net/p/hfut/d/artificial-intelligence/git)
++ [汇编语言](https://bareth.coding.net/p/hfut/d/assembly-language/git)
++ [通信原理](https://bareth.coding.net/p/hfut/d/communication-theory/git)
++ [计算机网络](https://bareth.coding.net/p/hfut/d/computer-networks/git)
++ [计算机组成原理](https://bareth.coding.net/p/hfut/d/computer-organization/git)
++ [微机原理与接口技术](https://bareth.coding.net/p/hfut/d/computer-principles-and-interface-techniques/git)
++ [数据库](https://bareth.coding.net/p/hfut/d/database/git)
++ [嵌入式系统](https://bareth.coding.net/p/hfut/d/embedded-system/git)
++ [机器学习](https://bareth.coding.net/p/hfut/d/machine-learning/git)
++ [数理逻辑](https://bareth.coding.net/p/hfut/d/mathematical-logic/git)
++ [现代企业管理](https://bareth.coding.net/p/hfut/d/modern-business-management/git)
++ [操作系统](https://bareth.coding.net/p/hfut/d/operating-system/git)
++ [传感器技术](https://bareth.coding.net/p/hfut/d/sensor-technology/git)
++ [单片机原理与技术](https://bareth.coding.net/p/hfut/d/singlechip/git)
++ [软件工程](https://bareth.coding.net/p/hfut/d/software-engineering/git)
 
-#### 使用说明
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 参与贡献
-
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
-
-
-#### 特技
-
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
