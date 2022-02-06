@@ -5,6 +5,8 @@
 
 由于 Gitee 仓库大小限制，所有资料都托管在 `coding` 平台上，整理不易，忘大家点个 star
 
+![hfut](https://gitee.com/bareth/images2/raw/master//img/hfut.png)
+
 ## 分类
 
 资料汇总列表：https://bareth.coding.net/p/hfut/repos
