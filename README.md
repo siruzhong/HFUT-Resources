@@ -3,6 +3,8 @@
 ## 介绍
 合肥工业大学计算机系物联网工程专业相关课程资料汇总
 
+>所有资料的整理都是加之个人批注的，如果部分资料有侵权请联系我进行删除
+
 由于 Gitee 仓库大小限制，所有资料都托管在 `coding` 平台上，整理不易，忘大家点个 star
 
 ![hfut](https://gitee.com/bareth/images2/raw/master//img/hfut.png)
