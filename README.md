@@ -1,35 +1,31 @@
-# HFUT
+# HFUT-Resources
 
-## 介绍
-合肥工业大学计算机系物联网工程专业相关课程资料汇总
+Hefei University of Technology / School of Computer and Information / Internet of Things Engineering Course Material Collection.
 
->所有资料的整理都是加之个人批注的，如果部分资料有侵权请联系我进行删除
+> All materials are organized with personal annotations. If any materials infringe on copyright, please contact me for removal.
 
-由于 Gitee 仓库大小限制，所有资料都托管在 `coding` 平台上，整理不易，忘大家点个 star
+Due to the size limit of git repositories, all materials are hosted on the [Coding](https://bareth.coding.net/p/hfut/repos) platform.
 
-![hfut](https://gitee.com/bareth/images2/raw/master//img/hfut.png)
+![hfut](https://gitee.com/bareth/images2/raw/master//img/hfut.png) 
 
-## 分类
+The list of all materials can be found here: [HFUT](https://bareth.coding.net/p/hfut/repos)
 
-资料汇总列表：https://bareth.coding.net/p/hfut/repos
-
-+ [硬件工程师综合训练](https://bareth.coding.net/p/hfut/d/Comprehensive-training-for-hardware-engineers/git)
-+ [Java技术](https://bareth.coding.net/p/hfut/d/Java-technology/git)
-+ [RFID原理和应用](https://bareth.coding.net/p/hfut/d/RFID-principle-and-application/git)
-+ [信号与系统](https://bareth.coding.net/p/hfut/d/Signals-and-Systems/git)
-+ [人工智能原理](https://bareth.coding.net/p/hfut/d/artificial-intelligence/git)
-+ [汇编语言](https://bareth.coding.net/p/hfut/d/assembly-language/git)
-+ [通信原理](https://bareth.coding.net/p/hfut/d/communication-theory/git)
-+ [计算机网络](https://bareth.coding.net/p/hfut/d/computer-networks/git)
-+ [计算机组成原理](https://bareth.coding.net/p/hfut/d/computer-organization/git)
-+ [微机原理与接口技术](https://bareth.coding.net/p/hfut/d/computer-principles-and-interface-techniques/git)
-+ [数据库](https://bareth.coding.net/p/hfut/d/database/git)
-+ [嵌入式系统](https://bareth.coding.net/p/hfut/d/embedded-system/git)
-+ [机器学习](https://bareth.coding.net/p/hfut/d/machine-learning/git)
-+ [数理逻辑](https://bareth.coding.net/p/hfut/d/mathematical-logic/git)
-+ [现代企业管理](https://bareth.coding.net/p/hfut/d/modern-business-management/git)
-+ [操作系统](https://bareth.coding.net/p/hfut/d/operating-system/git)
-+ [传感器技术](https://bareth.coding.net/p/hfut/d/sensor-technology/git)
-+ [单片机原理与技术](https://bareth.coding.net/p/hfut/d/singlechip/git)
-+ [软件工程](https://bareth.coding.net/p/hfut/d/software-engineering/git)
-
++ [硬件工程师综合训练 Comprehensive Training for Hardware Engineers](https://bareth.coding.net/p/hfut/d/Comprehensive-training-for-hardware-engineers/git) 
++ [Java技术 Java Technology](https://bareth.coding.net/p/hfut/d/Java-technology/git) 
++ [RFID原理和应用 Principles and Applications of RFID](https://bareth.coding.net/p/hfut/d/RFID-principle-and-application/git) 
++ [信号与系统 Signals and Systems](https://bareth.coding.net/p/hfut/d/Signals-and-Systems/git) 
++ [人工智能原理 Principles of Artificial Intelligence](https://bareth.coding.net/p/hfut/d/artificial-intelligence/git) 
++ [汇编语言 Assembly Language](https://bareth.coding.net/p/hfut/d/assembly-language/git) 
++ [通信原理 Communication Theory](https://bareth.coding.net/p/hfut/d/communication-theory/git) 
++ [计算机网络 Computer Networks](https://bareth.coding.net/p/hfut/d/computer-networks/git) 
++ [计算机组成原理 Principles of Computer Organization](https://bareth.coding.net/p/hfut/d/computer-organization/git) 
++ [微机原理与接口技术 Microcomputer Principles and Interface Techniques](https://bareth.coding.net/p/hfut/d/computer-principles-and-interface-techniques/git) 
++ [数据库 Databases](https://bareth.coding.net/p/hfut/d/database/git) 
++ [嵌入式系统 Embedded Systems](https://bareth.coding.net/p/hfut/d/embedded-system/git) 
++ [机器学习 Machine Learning](https://bareth.coding.net/p/hfut/d/machine-learning/git) 
++ [数理逻辑 Mathematical Logic](https://bareth.coding.net/p/hfut/d/mathematical-logic/git) 
++ [现代企业管理 Modern Business Management](https://bareth.coding.net/p/hfut/d/modern-business-management/git) 
++ [操作系统 Operating Systems](https://bareth.coding.net/p/hfut/d/operating-system/git) 
++ [传感器技术 Sensor Technology](https://bareth.coding.net/p/hfut/d/sensor-technology/git) 
++ [单片机原理与技术 Microcontroller Principles and Techniques](https://bareth.coding.net/p/hfut/d/singlechip/git) 
++ [软件工程 Software Engineering](https://bareth.coding.net/p/hfut/d/software-engineering/git) 
