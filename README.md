@@ -1,6 +1,6 @@
 # HFUT-Resources
 
-HFUT IoT Major Resources in the [School of Computer and Information](https://ci.hfut.edu.cn/). Due to the size limit of git repositories, all materials are hosted on the [Coding](https://bareth.coding.net/p/hfut/repos) platform.
+HFUT IoT (Internet of Things) Major Resources in the [School of Computer and Information](https://ci.hfut.edu.cn/). Due to the size limit of git repositories, all materials are hosted on the [Coding](https://bareth.coding.net/p/hfut/repos) platform.
 
 > All materials are organized with personal annotations. If any materials infringe on copyright, please contact me for removal.
 
