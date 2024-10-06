@@ -1,10 +1,9 @@
 # HFUT-Resources
 
-Hefei University of Technology / School of Computer and Information / Internet of Things Engineering Course Material Collection.
+HFUT IoT Major Resources in the [School of Computer and Information](https://ci.hfut.edu.cn/). Due to the size limit of git repositories, all materials are hosted on the [Coding](https://bareth.coding.net/p/hfut/repos) platform.
 
 > All materials are organized with personal annotations. If any materials infringe on copyright, please contact me for removal.
 
-Due to the size limit of git repositories, all materials are hosted on the [Coding](https://bareth.coding.net/p/hfut/repos) platform.
 
 ![hfut](https://gitee.com/bareth/images2/raw/master//img/hfut.png) 
 
