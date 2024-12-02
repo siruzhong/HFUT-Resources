@@ -6,7 +6,7 @@ Due to the size limit of git repositories, all materials are hosted on the [Codi
 
 > All materials include personal notes. For copyright issues, contact for removal.
 
-![hfut](https://gitee.com/bareth/images2/raw/master//img/hfut.png) 
+![hfut](https://gitee.com/siruzhong/images2/raw/master//img/hfut.png) 
 
 The list of all materials can be found here: [HFUT](https://bareth.coding.net/p/hfut/repos)
 
